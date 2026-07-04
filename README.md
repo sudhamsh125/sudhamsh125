@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhamsh Kalyanam</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhamsh125&label=Profile%20views&color=0e75b6&style=flat" alt="sudhamsh125" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhamsh125&label=Profile%20views&color=0e75b6&style=flat" > </p>
 
 - 📫 How to reach me **sudhamshkalyanam@gmail.com**
 
